@@ -1,0 +1,14 @@
+103,1984,George Orwell,Available
+104,The Catcher in the Rye,J.D. Salinger,Issued
+105,Pride and Prejudice,Jane Austen,Available
+106,It Ends with Us,Helen Cover,Available
+107,The Mountain is you,Brianna West,Available
+108,Metamorphsis,FRANZ kafka,Issued
+www,123,111,Available
+345,alif,nimra ahmed,Available
+12,mala,nimra ahmed,Issued
+2344,111,wer,Available
+1,dfff,ddd,Issued
+2345,my book,me or who,Available
+123,dsa,dietal,Available
+1234,c__,dieral,Available
