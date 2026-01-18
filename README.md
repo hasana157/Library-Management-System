@@ -124,7 +124,3 @@ java LibraryManagementSystem
  Feel free to fork the project, create a feature branch, and submit a pull request for any enhancements.
 
 **Developed by Hasana Zahid** 
-
----
-
-Would you like me to help you refactor the file handling logic to use **JSON or Object Serialization** for more complex data structures?
